@@ -2,7 +2,7 @@
 
 ### 環境
 
-・インスタンスタイプ ： T2.micro
+・インスタンスタイプ ： T2.micro  
 ・OS ： Amazon Linux 2 
 
 
