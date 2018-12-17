@@ -1,4 +1,4 @@
-# 【備忘録】Ansible② Playbookとインベトリの書き方
+# 【備忘録】Ansible② Playbookとインベントリの書き方
 
 ### 環境
 
